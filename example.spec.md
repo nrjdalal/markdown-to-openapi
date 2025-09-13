@@ -17,8 +17,8 @@ Check the health of the system.
 
 - 200 - System is healthy.
 
-  ```json
-  {
-    "message": "OK"
-  }
-  ```
+```json
+{
+  "message": "OK"
+}
+```
