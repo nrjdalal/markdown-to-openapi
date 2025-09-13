@@ -9,11 +9,13 @@
 
 ### Health
 
-Check the health of the API.
+Check the health of the system.
 
 > GET /health
 
-- 200
+#### Responses
+
+- 200 - System is healthy.
 
   ```json
   {
