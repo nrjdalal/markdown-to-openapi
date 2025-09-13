@@ -13,7 +13,7 @@ Check the health of the API.
 
 > GET /health
 
-```json:200
+```json 200
 {
   "message": "OK"
 }
